@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0o9amj-dl07-t.css","style"]
+:HL["/_next/static/chunks/0oz6pxq3ipw7~.css","style"]
+:HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"company","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"gaiso","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"9KZ8S5vZ7G1ecDf0oC2OU"}
